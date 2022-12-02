@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GetFit</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tips">Some Tips To Boost Your Fitness</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="today_s_steps">Today\'s Steps</string>
+    <string name="calorie_s_burnt">Calorie\'s Burnt</string>
+    <string name="leader_desc">Compete with people around the world and get fit...</string>
+</resources>
